@@ -1,10 +1,10 @@
-# ⚡ Electric Vehicle (EV) Data Analysis Project using Python
+#  Electric Vehicle (EV) Data Analysis Project using Python
 
 This project explores electric vehicle (EV) specifications and performance data using Python. The aim is to analyze key features like battery capacity, driving range, energy efficiency, and pricing to generate insights and recommendations for consumers.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The dataset includes technical and performance metrics of various electric vehicles (EVs) from leading brands such as Audi, Tesla, BMW, and Hyundai. The project performs:
 
@@ -16,7 +16,7 @@ The dataset includes technical and performance metrics of various electric vehic
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -27,7 +27,7 @@ The dataset includes technical and performance metrics of various electric vehic
 
 ---
 
-## 🧾 Dataset Highlights
+##  Dataset Highlights
 
 Columns include:
 
@@ -39,7 +39,7 @@ Columns include:
 
 ---
 
-## ✅ Key Tasks Performed
+##  Key Tasks Performed
 
 ### 1. EV Filtering & Grouping
 - Selected EVs under **350,000 PLN** with a range ≥ **400 km**
